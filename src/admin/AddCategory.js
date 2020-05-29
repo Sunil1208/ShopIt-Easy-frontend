@@ -9,7 +9,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import Alert from '@material-ui/lab/Alert';
 import CloseIcon from '@material-ui/icons/Close';
 import IconButton from '@material-ui/core/IconButton';
-import SimpleBackdrop from '../core/backdrop/Backdrop';
 import { Button } from '@material-ui/core';
 
 
